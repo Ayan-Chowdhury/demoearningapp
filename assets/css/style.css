@@ -1,0 +1,99 @@
+body{
+	    background-color: #fffadf!important;
+}
+
+#scrollbar{
+	background-color: #1F166C;
+}
+.navbar-header {
+	background-color: #1F166C;
+	color: white;
+}
+.navbar-menu {
+    width: 250px;
+    z-index: 1002;
+    background: ;
+    border-right: 1px solid #fff;
+    bottom: 0;
+    margin-top: 0;
+    position: fixed;
+    top: 0;
+    -webkit-box-shadow: 0 2px 4px rgba(15,34,58,.12);
+    box-shadow: 0 2px 4px rgba(15,34,58,.12);
+    padding: 0 0 calc(70px + 25px) 0;
+    -webkit-transition: all .1s ease-out;
+    transition: all .1s ease-out;
+}
+#topnav-hamburger-icon{
+	color: white;
+}
+.navbar-brand-box{
+	background-color: #1F166C;
+}
+.logo-sm img{
+	width: 50px;
+	height: auto;
+}
+.logo-lg img{
+	width: 200px;
+	height: auto;
+}
+.app-menu{
+		background-color: #1F166C;
+}
+.nvabar-menu{
+	background-color: #1F166C;
+}
+.logo-text{
+	height: 17;
+	color: white;
+	text-align: center;
+	font-family: ARIAL;
+	font-size: 20px;
+	font-weight: 800;
+}
+.hamburger-icon{
+	color: white;
+}
+.logo .logo-light .logo-dark{
+	background-color: #1F166C;
+}
+.main-content{
+	background-color: #7040A0;
+	text-decoration-color: white;
+}
+h4{
+	color: white;
+}
+/*.pannel_card{
+	background-color: #EC0EFF;
+}*/
+.topbar-user{
+	background-color: #1F166C ;
+}
+.topbar-user {
+	margin: 3px;
+    background-color: #7040A0!important;
+    border-radius: 40px;
+    color: white;
+    
+}
+.addgifts{
+	background-color:#F37d4b!important ;
+	font-weight: 400;
+	font-size: 18px;
+	color: black;
+}
+.giftcards{
+	background-color: #FF723F!important;
+	font-size: 16px;
+}
+
+[data-layout=vertical][data-sidebar=dark] .navbar-menu {
+     background: #1F166C!important;
+    border-right: 1px solid #1F166C!important;
+}
+[data-layout=vertical][data-sidebar=dark][data-sidebar-size=sm] .navbar-brand-box {
+     background: #7040A0!important;
+    border: 1rem ghostwhite;
+}
